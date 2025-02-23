@@ -12,4 +12,4 @@ Flying Bird is a simple, addictive arcade game where players tap to keep a bird 
 
 
 
- ![Flying Bird Game](C:\Users\samru\Desktop\flafy-bird\ezgif.com-video-to-gif-converter.gif)
+  ![Flying Bird Game](ezgif.com-video-to-gif-converter.gif)
